@@ -9,4 +9,4 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 <img src="./image_gallery/iop.png"/>
 
-![](https://media.giphy.com/media/tJrtEupUw8Pr4BehPk/giphy.gif)
+![](https://media.giphy.com/media/3og0IRjGWktH44GccU/giphy.gif)
