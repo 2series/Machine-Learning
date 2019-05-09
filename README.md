@@ -7,4 +7,6 @@ This course provides a broad introduction to machine learning, datamining, and s
 
 ### Assessment
 
-<img src="./image_gallery/iop.png"/>
+<img src="./image_gallery/1.png"/>
+<img src="./image_gallery/2.png"/>
+<img src="./image_gallery/3.png"/>
